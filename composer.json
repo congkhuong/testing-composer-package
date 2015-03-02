@@ -11,7 +11,6 @@
     ],
     "require": {
 		"php": ">=5.4.0",
-        "sea-tea/hello": "dev-master"
     },
     "autoload": {
 		"psr-4": {
